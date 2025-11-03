@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola mundo! Soy Marcos</h1>
 <p align="center">
-  🕵️‍♂️ Bug Bounty Hunter · 🛡️ Pentester · ☁️ AWS Learner · 👨‍🏫 Profesor de Formación Profesiona de las famílias de Informática y comunicacions e Imagen y Sonido
+  🕵️‍♂️ Bug Bounty Hunter Newbie · 🛡️ Ethical Hacker Newbie · ☁️ AWS Learner · 👨‍🏫 Profesor de Formación Profesional de las famílias de Informática y Comunicaciones e Imagen y Sonido
 </p>
 
 ---
@@ -23,7 +23,7 @@ Actualmente me estoy formando en Amazon Web Services y, en mi tiempo libre, busc
 ---
 
 ## 🧑‍🏫 Sobre mi trabajo docente
-Enseño en ciclos formativos de grado superior, ayudando a los estudiantes a comprender cómo la **tecnología, la imagen y el sonido** convergen en los entornos digitales modernos.  
+Enseño en ciclos formativos de grado superior, grado medio y cursos de especialización de las famílias profesionas de Informática y Comunicaciones e Imagen y Sonido.
 Fomento el pensamiento crítico, la creatividad técnica y el aprendizaje práctico a través de proyectos reales.
 
 ---
