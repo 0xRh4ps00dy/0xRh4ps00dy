@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola mundo! Soy Marcos</h1>
 <p align="center">
-  🕵️‍♂️ Bug Bounty Hunter Newbie · 🛡️ Ethical Hacker Newbie · ☁️ AWS Learner · 👨‍🏫 Profesor de Formación Profesional de las famílias de Informática y Comunicaciones e Imagen y Sonido
+  🕵️‍♂️ Bug Bounty Hunter Newbie · 🛡️ Ethical Hacker Newbie · 👨‍🏫 Profesor de Formación Profesional de las famílias de Informática y Comunicaciones e Imagen y Sonido
 </p>
 
 ---
@@ -10,15 +10,13 @@ Actualmente soy profesor de Formación Profesional en las familias profesionales
 
 En el plano profesional provengo del sector de las artes gráficas. Soy Técnico Superior en Gráfica Publicitaria y Graduado en Multimedia. Con los años descubrí mi interés por el hacking ético y obtuve certificaciones como eJPTv2, CWES (anteriormente CBBH) y CRTA.
 
-Actualmente me estoy formando en Amazon Web Services y, en mi tiempo libre, busco conseguir mi primer informe válido en el mundo del Bug Bounty.
+Actualmente me estoy especialiazando en vulnerabilidades Broken Access Control y IDORs, en mi tiempo libre, busco aplicar este conocimiento para conseguir mi primer informe válido en el mundo del Bug Bounty.
 
 ---
 
 ## 🧠 Áreas que me apasionan
 - 🔓 Hacking ético 
-- ☁️ Amazon Web Services  
 - 🧰 Bug Bounty  
-- 🧠 Ingeniería inversa 
 
 ---
 
@@ -29,8 +27,7 @@ Fomento el pensamiento crítico, la creatividad técnica y el aprendizaje práct
 ---
 
 ## 🧪 En qué estoy trabajando ahora
-- 🚧 Mejorando mis habilidades en **AWS**  
-- 💣 Participando en programas de **Bug Bounty y CTFs**  
+- 💣 Participando en programas de **Bug Bounty**  
 
 ---
 
