@@ -6,11 +6,11 @@
 ---
 
 ## 🔥 Sobre mí
-Actualmente soy profesor de Formación Profesional en las familias profesionales de Informática y Comunicaciones, e Imagen y Sonido. Compagino la docencia con mi pasión por el hacking ético: participo activamente en plataformas de Capture The Flag como Hack The Box y TryHackMe, y sigo formándome en este ámbito.
+Actualmente, soy profesor de Formación Profesional en las familias profesionales de Informática y Comunicaciones, e Imagen y Sonido. Compagino la docencia con mi pasión por el hacking ético: participo activamente en plataformas de Capture The Flag como Hack The Box y TryHackMe, y sigo formándome en este ámbito.
 
 En el plano profesional provengo del sector de las artes gráficas. Soy Técnico Superior en Gráfica Publicitaria y Graduado en Multimedia. Con los años descubrí mi interés por el hacking ético y obtuve certificaciones como eJPTv2, CWES (anteriormente CBBH) y CRTA.
 
-Actualmente me estoy especialiazando en vulnerabilidades Broken Access Control y IDORs, en mi tiempo libre, busco aplicar este conocimiento para conseguir mi primer informe válido en el mundo del Bug Bounty.
+Actualmente, me estoy especializando en vulnerabilidades Broken Access Control y IDORs, en mi tiempo libre, busco aplicar este conocimiento para conseguir mi primer informe válido en el mundo del Bug Bounty.
 
 ---
 
